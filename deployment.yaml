@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: indiaproj-container
-        image: arpitmj/myindiaproj:latest
+        image: arpitmj/myindiaproj:1.0
         ports:
         - containerPort: 80

@@ -15,7 +15,7 @@ public class MainClass {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Java within Kubernetes K*****8-- Maven Project!!!");
+		System.out.println("Java within Kubernetes K*****8-via Jenkins- Maven Project!!!");
 
 	}
 
